@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		2FAAA6551BF94F9700B508AF /* GenomeData */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GenomeData; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FAAA6581BF94F9800B508AF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2FAAA6611BF956B900B508AF /* chm1.fa */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = chm1.fa; path = "../../../Genome Data/chm1.fa"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		2FAAA6571BF94F9700B508AF /* GenomeData */ = {
 			isa = PBXGroup;
 			children = (
+				2FAAA6611BF956B900B508AF /* chm1.fa */,
 				2FAAA6581BF94F9800B508AF /* main.cpp */,
 			);
 			path = GenomeData;
